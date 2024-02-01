@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CrossX</string>
+    <string name="heading">TIC TAC TOE</string>
+    <string name="score">YOUR SCORE</string>
+    <string name="cross">X</string>
+    <string name="zero">O</string>
+    <string name="skip">Skip</string>
+    <string name="enter">ENTER</string>
+    <string name="choose">Chose to start</string>
+</resources>
